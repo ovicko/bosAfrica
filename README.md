@@ -6,9 +6,9 @@ TokenPocket: https://bos-rex.tokenpocket.pro/#/
 And in EOS LIVE wallet REX is tradeable as well. 
 
 3, How to create a BOS account? 
-1) Buy an account on https://dapp.mytokenpocket.vip/alipay/en/bos.html
-2) Sign up with UID (http://bosuid.com) a user can receive BOS to their wallet and create a BOS mainnet account of their own.
-3) One may also use myeoswallet and create a BOS account for free.
+	- Buy an account on https://dapp.mytokenpocket.vip/alipay/en/bos.html
+	- Sign up with UID (http://bosuid.com) a user can receive BOS to their wallet and create a BOS mainnet account of their own.
+	- One may also use myeoswallet and create a BOS account for free.
 
 4, Where can I check the BOS airdrop? 
 https://github.com/boscore/bos-airdrop-snapshots
@@ -34,8 +34,11 @@ https://medium.com/@BOSCore/bos-ecosystem-program-referendum-wps-a327098e50ee
 
 11, Where can I check the mainnet BOS backup stats? 
 https://eosnode.tools/blocks/bos
+## Wallets that support BOS
+[TokenPocket](https://play.google.com/store/apps/details?id=vip.mytokenpocket)
 
-## BOS HTTP endpoints
+
+## BOS API endpoints
 **alohabosprod: US, Oregon**
 p2p-peer-address = peer.bos.alohaeos.com:9876
 
