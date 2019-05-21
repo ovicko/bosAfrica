@@ -1,6 +1,5 @@
 # BOS Africa Essential Information
-1, What's the API endpoint? 
-https://validate.eosnation.io/bos/reports/config.html
+1, [What's the BOS API endpoint?](https://github.com/ovicko/bosAfrica#bos-http-endpoints)
 
 2, How to trade REX? 
 TokenPocket: https://bos-rex.tokenpocket.pro/#/
@@ -79,10 +78,10 @@ p2p-peer-address = p2p.bos.nodepacific.com:9876
 **bosphereiobp: AU, Sydney**
 p2p-peer-address = peer1-bos.eosphere.io:9876
 
-# bosswedenorg: SE, Sweden**
+**bosswedenorg: SE, Sweden**
 p2p-peer-address = p2p.bossweden.org:9876
 
-**bostribeprod: US, Bluffdale, UT
+**bostribeprod: US, Bluffdale, UT**
 p2p-peer-address = api.bos.eostribe.io:7878
 
 **boszhizhutop: SG, Singapore**
@@ -118,13 +117,15 @@ p2p-peer-address = bos-peer.slowmist.io:19876
 **venezuelabos: VE, eosvenezuela**
 p2p-peer-address = bos.eosvenezuela.io:9876
 
+[You can also check the latest endpoints here](https://validate.eosnation.io/bos/reports/config.html)
+
 
 ## Contact BOSCore
 Telegram: https://t.me/boscorecommunity
 
 Weibo: https://weibo.com/boscore
 
-Twitter: https://twitter.com/BOSCoreCore
+Twitter: https://twitter.com/Boscore_BOS
 
 Facebook: https://www.facebook.com/boscore.io
 
