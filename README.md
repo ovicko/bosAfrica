@@ -36,6 +36,87 @@ https://medium.com/@BOSCore/bos-ecosystem-program-referendum-wps-a327098e50ee
 11, Where can I check the mainnet BOS backup stats? 
 https://eosnode.tools/blocks/bos
 
+## BOS HTTP endpoints
+**alohabosprod: US, Oregon**
+p2p-peer-address = peer.bos.alohaeos.com:9876
+
+**blockedencom:  Tokyo**
+p2p-peer-address = p2p.bos.blockeden.com:10777
+
+**blockgogreat: CN, HongKong**
+p2p-peer-address = bosp2p.api.blockgo.vip:666
+
+**bosauthority: GB, London**
+p2p-peer-address = bos-node.eosauthority.com:9393
+
+**bosbeijingbp: JP, Tokyo**
+p2p-peer-address = p2p-bos.eosbeijing.one:6001
+
+**bosdacserver: GB, United Kingdom**
+p2p-peer-address = bos.eosdac.io:9876
+
+**boseouldotio: JP, Tokyo**
+p2p-peer-address = bos-p2p.eoseoul.io:9876
+
+**boshuobipool: ??, HuobiNode1**
+p2p-peer-address = bos1.eoshuobipool.com:18181
+
+**boshuobipool: ??, HuobiNode2**
+p2p-peer-address = bos2.eoshuobipool.com:18181
+
+**bosiomeetone: CN, Taiwan**
+p2p-peer-address = bos-peer.meet.one:9876
+
+**bosmatrix123: GB, London**
+p2p-peer-address = bosmatrix.blockmatrix.network:13546
+
+**bosnationftw: CA, Canada**
+p2p-peer-address = bos.eosn.io:9876
+
+**bospacificbp: JP, Tokyo, Japan**
+p2p-peer-address = p2p.bos.nodepacific.com:9876
+
+**bosphereiobp: AU, Sydney**
+p2p-peer-address = peer1-bos.eosphere.io:9876
+
+# bosswedenorg: SE, Sweden**
+p2p-peer-address = p2p.bossweden.org:9876
+
+**bostribeprod: US, Bluffdale, UT
+p2p-peer-address = api.bos.eostribe.io:7878
+
+**boszhizhutop: SG, Singapore**
+p2p-peer-address = p2p.bos.zhizhu.top:9876
+
+**dapppubbosbp: JP, Tokyo**
+p2p-peer-address = peering.bos.dapp.pub:9876
+
+**eos42freedom: GB, London**
+p2p-peer-address = seed.bos42.io:9877
+
+**eoscanadacom: CA, Montreal, Canada**
+p2p-peer-address = peering.bos.eoscanada.com:9876
+
+**eosnewyorkio: DE, primary**
+p2p-peer-address = p2p.bos.eosnewyork.io:6987
+
+**gravitypooll: HK, HongKong**
+p2p-peer-address = p2p.bos.gravitypool.io:9877
+
+**helloboscnbp: JP, Tokyo**
+p2p-peer-address = p2p.hellobos.one:9876
+
+**hkboshkbosbp: SG, Singapore**
+p2p-peer-address = bos-p2p.hkeos.com:9876
+
+**itokenpocket: SG, TokenPocket**
+p2p-peer-address = bos.tokenpocket.pro:9376
+
+**slowmistiobp: SG, Singapore**
+p2p-peer-address = bos-peer.slowmist.io:19876
+
+**venezuelabos: VE, eosvenezuela**
+p2p-peer-address = bos.eosvenezuela.io:9876
 
 
 ## Contact BOSCore
@@ -43,10 +124,10 @@ Telegram: https://t.me/boscorecommunity
 
 Weibo: https://weibo.com/boscore
 
-Twitter: https://twitter.com/BOSCoreCore_BOSCore
+Twitter: https://twitter.com/BOSCoreCore
 
 Facebook: https://www.facebook.com/boscore.io
 
-Medium:https://medium.com/@BOSCoreCore
+Medium:https://medium.com/@BOSCore
 
 Email: support@boscore.io
