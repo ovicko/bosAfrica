@@ -35,3 +35,18 @@ https://medium.com/@BOSCore/bos-ecosystem-program-referendum-wps-a327098e50ee
 
 11, Where can I check the mainnet BOS backup stats? 
 https://eosnode.tools/blocks/bos
+
+
+
+## Contact BOSCore
+Telegram: https://t.me/boscorecommunity
+
+Weibo: https://weibo.com/boscore
+
+Twitter: https://twitter.com/BOSCoreCore_BOSCore
+
+Facebook: https://www.facebook.com/boscore.io
+
+Medium:https://medium.com/@BOSCoreCore
+
+Email: support@boscore.io
