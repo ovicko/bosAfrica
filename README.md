@@ -38,7 +38,7 @@ https://eosnode.tools/blocks/bos
 [TokenPocket](https://play.google.com/store/apps/details?id=vip.mytokenpocket)
 
 
-## BOS API endpoints
+## BOS P2P API endpoints
 **alohabosprod: US, Oregon**
 p2p-peer-address = peer.bos.alohaeos.com:9876
 
@@ -121,6 +121,34 @@ p2p-peer-address = bos-peer.slowmist.io:19876
 p2p-peer-address = bos.eosvenezuela.io:9876
 
 [You can also check the latest endpoints here](https://validate.eosnation.io/bos/reports/config.html)
+
+## BOS Testnet  
+### HTTP API list  
+**API nodes:**  
+https://bos-testnet.eosphere.io/v1/chain/get_info
+https://boscore.eosrio.io/v1/chain/get_info
+https://api.bostest.alohaeos.com/v1/chain/get_info
+http://bos-test.eoshenzhen.io:8888/v1/chain/get_info
+
+**API nodes support get actions ( filter-on=* ):**  
+
+https://bostest.api.blockgo.vip  
+https://boscore.eosrio.io/v1/history/ (MongoDB based)  
+https://history-api-bos-testnet.keosd.io/v1/history/ (MongoDB based)  
+http://bos-test.eoshenzhen.io:8888/v1/chain/get_info  
+**State History Support:**  
+http://sh-bostest.eoshenzhen.io:8088
+
+### P2P List
+p2p-peer-address = 13.230.195.142:9234  
+p2p-peer-address = 47.88.155.76:9876  
+p2p-peer-address = 47.75.242.50:9876  
+p2p-peer-address = bos-testnet.eosphere.io:9876  
+p2p-peer-address = bostest.eosn.io:9876  
+p2p-peer-address = tst.bossweden.org:9899  
+p2p-peer-address = bos.testnet.eosargentina.io:9876  
+p2p-peer-address = peer.bostest.alohaeos.com:9876  
+p2p-peer-address = bos-test.eoshenzhen.io:9876  
 
 
 ## Contact BOSCore
